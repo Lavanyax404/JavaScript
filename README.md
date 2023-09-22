@@ -1,4 +1,4 @@
-# JavaScript assignments 
+# JavaScript assignments day 1
 
 # Expected Output 
 
